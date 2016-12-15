@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0-*",
+
+  "dependencies": {
+    "Antlr4": "4.5.4-beta001",
+    "Antlr4.CodeGenerator": "4.5.4-beta001",
+    "Antlr4.Runtime": "4.5.4-beta001",
+    "NETStandard.Library": "1.6.1"
+  },
+
+  "frameworks": {
+    "netstandard1.6": {
+      "imports": "dnxcore50"
+    }
+  }
+}
